@@ -1,0 +1,15 @@
+{
+  "name": "env-confessional",
+  "version": "1.0.0",
+  "description": "A simple tool to check for missing environment variables",
+  "main": "env-confessional.js",
+  "bin": {
+    "env-confess": "./env-confessional.js"
+  },
+  "scripts": {
+    "start": "node env-confessional.js"
+  },
+  "keywords": ["env", "environment", "variables", "config"],
+  "author": "",
+  "license": "MIT"
+}
